@@ -1,3 +1,3 @@
 module github.com/dmcleish91/go-docker-app
 
-go 1.23.1
+go 1.23
