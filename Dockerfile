@@ -1,5 +1,5 @@
 # Use the official Golang image for ARM architecture (arm64)
-FROM golang:1.20-alpine AS builder
+FROM golang:1.23-alpine AS builder
 
 # Set the working directory inside the container
 WORKDIR /app
